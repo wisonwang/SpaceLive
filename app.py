@@ -31,7 +31,7 @@ if __name__ == '__main__':
         usage()
         sys.exit(2)
 
-    file = ""
+    file = os.path.realpath("./apis")
     init_logger("SwaggerServer")
     for o, a in opts:
         if o in ("-h", "--help"):
@@ -42,7 +42,7 @@ if __name__ == '__main__':
         else:
             assert False, "unhandled option"
             
-    static_folder = file+"templates"
+    static_folder = os.path.realpath("./templates")
     
     app.run_server(specification_base_dir=file,
                    template_folder=static_folder)
