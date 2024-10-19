@@ -1,12 +1,13 @@
 # Table of contents
 
-* [数据算法技术](README.md)
-
+* [数据算法](README.md)
+  * [大数据](da-shu-ju/README.md)
+  * [推荐系统](recsys/README.md)
 ***
 
 * [大模型](da-mo-xing/README.md)
   * [各家大模型及动态](da-mo-xing/ge-jia-da-mo-xing-ji-dong-tai.md)
-  * [大模型应用-工程](da-mo-xing/da-mo-xing-ying-yong-gong-cheng/README.md)
+  * [大模型应用项目](da-mo-xing/da-mo-xing-ying-yong-gong-cheng/README.md)
     * [auto-gpt](da-mo-xing/da-mo-xing-ying-yong-gong-cheng/auto-gpt.md)
     * [metagpt](da-mo-xing/da-mo-xing-ying-yong-gong-cheng/metagpt.md)
 
