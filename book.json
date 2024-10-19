@@ -1,0 +1,36 @@
+{
+  "title": "算法和数据技术笔记",
+  "description": "",
+  "author": "vincent wang",
+  "language": "zh-hans",
+  "plugins": [
+    "highlight",
+    "search",
+    "sharing",
+    "expandable-chapters"
+  ],
+  "pluginsConfig": {
+    "highlight": {},
+    "search": {
+      "maxSearchResultSize": 100
+    },
+    "sharing": {
+      "douban": false,
+      "facebook": false,
+      "google": true,
+      "pocket": false,
+      "qq": false,
+      "qzone": true,
+      "twitter": false,
+      "weibo": true
+    },
+    "expandable-chapters": {
+         "expandCodeblocks": true,
+         "defaultExpanded": false
+    }
+  },
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  }
+}
