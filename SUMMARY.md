@@ -20,3 +20,4 @@
 ## 网站收藏
 
   * [新媒体数据指数-新榜](readme/hao-yong-de-de-wai-bu-shu-ju-zhi-shu-xin-bang.md)
+  * [GITBOOK使用说明](https://gitbook-ng.github.io/ "GITBOOK使用说明")
