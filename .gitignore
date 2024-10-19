@@ -5,5 +5,4 @@ dist
 *.pyc
 _book
 node_modules
-*.json
 
