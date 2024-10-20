@@ -8,8 +8,10 @@
 * [大模型](da-mo-xing/README.md)
   * [各家大模型及动态](da-mo-xing/ge-jia-da-mo-xing-ji-dong-tai.md)
   * [大模型应用项目](da-mo-xing/da-mo-xing-ying-yong-gong-cheng/README.md)
-    * [auto-gpt](da-mo-xing/da-mo-xing-ying-yong-gong-cheng/auto-gpt.md)
+    * [AutoGPT](da-mo-xing/da-mo-xing-ying-yong-gong-cheng/auto-gpt.md)
     * [metagpt](da-mo-xing/da-mo-xing-ying-yong-gong-cheng/metagpt.md)
+    * [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)
+    * [PromptFlow](da-mo-xing/da-mo-xing-ying-yong-gong-cheng/promptflow.md)
 ***
 
 ## 系统工具
