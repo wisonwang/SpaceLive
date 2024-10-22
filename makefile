@@ -12,3 +12,5 @@ previewlocal:
 previewonsite:
 	open "https://wisons-organization.gitbook.io/"
 
+
+# install deps : npm install gitbook-plugin-image-captions

@@ -7,7 +7,8 @@
     "highlight",
     "search",
     "sharing",
-    "expandable-chapters"
+    "expandable-chapters",
+    "image-captions"
   ],
   "pluginsConfig": {
     "highlight": {},
