@@ -25,4 +25,4 @@
 
   * [新媒体数据指数-新榜](readme/hao-yong-de-de-wai-bu-shu-ju-zhi-shu-xin-bang.md)
   * [GITBOOK使用说明](https://gitbook-ng.github.io/ "GITBOOK使用说明")
-  * [运营数据分析地图](readme/运营数据分析地图.md)
+  * [知识地图](readme/运营数据分析地图.md)
