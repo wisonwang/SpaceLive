@@ -1,8 +1,10 @@
 # Table of contents
 
 * [数据算法](README.md)
-  * [大数据](da-shu-ju/README.md)
   * [推荐系统](recsys/README.md)
+  * [大数据](da-shu-ju/README.md)
+    * [湖仓一体架构](da-shu-ju/湖仓一体.md)
+    * [云原生大数据架构](da-shu-ju/云原生大数据架构.md)
 ***
 
 * [大模型](da-mo-xing/README.md)
@@ -23,3 +25,4 @@
 
   * [新媒体数据指数-新榜](readme/hao-yong-de-de-wai-bu-shu-ju-zhi-shu-xin-bang.md)
   * [GITBOOK使用说明](https://gitbook-ng.github.io/ "GITBOOK使用说明")
+  * [运营数据分析地图](readme/运营数据分析地图.md)
